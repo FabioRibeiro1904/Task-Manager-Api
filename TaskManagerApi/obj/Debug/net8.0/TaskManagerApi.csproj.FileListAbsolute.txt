@@ -145,3 +145,4 @@
 /Users/fabiolucioribeiro/Portifolio/Projetos/01-dotnet-core-api/TaskManagerApi/obj/Debug/net8.0/TaskManagerApi.pdb
 /Users/fabiolucioribeiro/Portifolio/Projetos/01-dotnet-core-api/TaskManagerApi/obj/Debug/net8.0/TaskManagerApi.genruntimeconfig.cache
 /Users/fabiolucioribeiro/Portifolio/Projetos/01-dotnet-core-api/TaskManagerApi/obj/Debug/net8.0/ref/TaskManagerApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/01-dotnet-core-api/TaskManagerApi/obj/Debug/net8.0/TaskManagerApi.sourcelink.json
