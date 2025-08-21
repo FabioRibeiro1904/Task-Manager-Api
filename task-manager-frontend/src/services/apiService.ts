@@ -13,7 +13,7 @@ import {
 
 class ApiService {
   private readonly api: AxiosInstance;
-  private readonly baseURL = 'http://localhost:5223/api'; // URL da API .NET
+  private readonly baseURL = process.env.REACT_APP_API_URL || 'http://localhost:5223/api'; // URL da API .NET
 
   constructor() {
     this.api = axios.create({
